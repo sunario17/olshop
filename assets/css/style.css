@@ -1,0 +1,26 @@
+h2 {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-variant: small-caps;
+      text-decoration: underline;
+      text-transform: capitalize;
+}
+
+p {
+      font-family: "Times New Roman", serif;
+}
+
+.loader {
+      width: 100px;
+      position: absolute;
+      top: 115;
+      left: 150px;
+      z-index: -1;
+}
+
+
+
+
+
+tr:nth-child(even) {
+      background-color: #ddd;
+}
